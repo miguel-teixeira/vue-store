@@ -1,12 +1,8 @@
 {
-  "name": "vue-store",
+  "name": "xptopack",
   "version": "0.0.1",
   "description": "Just another vue store, but simpler.",
-  "main": "scr/store.js",
-  "keywords": [
-    "store",
-    "vue"
-  ],
+  "main": "src/store.js",
   "author": "Miguel Teixeira <marauder.fx@gmail.com>",
   "license": "MIT"
 }
