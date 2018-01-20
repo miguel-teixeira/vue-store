@@ -1,5 +1,5 @@
 {
-  "name": "vue store",
+  "name": "store",
   "version": "0.0.1",
   "description": "Just another vue store, but simpler.",
   "main": "src/store.js",
